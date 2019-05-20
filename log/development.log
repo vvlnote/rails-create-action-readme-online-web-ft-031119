@@ -121,3 +121,10 @@ No template found for PostsController#create, rendering head :no_content
 Completed 204 No Content in 18ms (ActiveRecord: 3.2ms)
 
 
+Started GET "/posts/new" for 24.130.199.179 at 2019-05-20 22:59:09 +0000
+Processing by PostsController#new as HTML
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/new.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 38ms (Views: 26.4ms | ActiveRecord: 1.2ms)
+
+
